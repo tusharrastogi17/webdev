@@ -180,21 +180,20 @@ p{
 
 
 .title-image{
-	width:50%;
-	/*transform: rotate(25deg);
-	position: absolute;*/
+	width:40%;
 	right: 30%;
 }
 
 #title .title-p{
-	padding:5% 0 0 0;
+	padding:6% 0 0 0;
 	line-height:1.5;
 	color: #fff;
 	font-size:25px;
 }
 
 .background-img{
-	padding-top:100px;
+	padding-top:190px;
+	padding-bottom:10%;
 	background-image: url("../images/background-img.jpg");
 	background-color: #cccccc;
 	background-position: center;
@@ -211,7 +210,7 @@ p{
 }
 
 #features .container-fluid{
-	padding: 2% 10%;
+	padding: 8% 10%;
 }
 .feature-box{
 	padding: 2	%;
@@ -243,8 +242,6 @@ p{
 .responsive-img{
 	height: 600px ;
 	width: 100% ;
-	/*border-radius: 100%;*/
-	
 }
 .testimonials-image{
 	width:80%;
@@ -289,6 +286,7 @@ p{
 /*playing section */
 
 #drum-title{
+	padding: 6% 0%;
 	background-color: #283149;
 	text-align: center;
 	
@@ -363,13 +361,6 @@ p{
   margin: 10px;
   background-color: white;
 }
-
-
-
-
-	
-
-
 
 
 
